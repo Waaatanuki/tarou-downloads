@@ -1,7 +1,7 @@
-version: 4.0.4
+version: 4.0.5
 files:
-  - url: https://github.com/Waaatanuki/tarou-downloads/releases/download/4.0.4/Tarou-4.0.4-win-x64-setup.exe
-    sha512: Ixo87TJ9o2lopoQaddEY+0X+ifkXt2PMYJb7wHUHMetZBxmbXtyxfplYQUoTD4ymmH4gEZ5kGVBuGsHR2m5XXQ==
-    size: 108486156
-path: https://github.com/Waaatanuki/tarou-downloads/releases/download/4.0.4/Tarou-4.0.4-win-x64-setup.exe
-sha512: Ixo87TJ9o2lopoQaddEY+0X+ifkXt2PMYJb7wHUHMetZBxmbXtyxfplYQUoTD4ymmH4gEZ5kGVBuGsHR2m5XXQ==
+  - url: https://github.com/Waaatanuki/tarou-downloads/releases/download/4.0.5/Tarou-4.0.5-win-x64-setup.exe
+    sha512: jCvzB3E31aPfevebYV5AZPb3a+cpX94bc8y706YwMfeZDi7NVx8tcyGIpLQtnuACObz+kMQx/7KG/0WGu5neRA==
+    size: 108486212
+path: https://github.com/Waaatanuki/tarou-downloads/releases/download/4.0.5/Tarou-4.0.5-win-x64-setup.exe
+sha512: jCvzB3E31aPfevebYV5AZPb3a+cpX94bc8y706YwMfeZDi7NVx8tcyGIpLQtnuACObz+kMQx/7KG/0WGu5neRA==
